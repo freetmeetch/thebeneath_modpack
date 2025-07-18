@@ -1,2 +1,2 @@
 # The Beneath Modpack
-mcmodpack
+An innovative project designed to quick consume. 
