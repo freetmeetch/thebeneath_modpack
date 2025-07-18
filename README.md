@@ -1,2 +1,2 @@
-# thebeneath_modpack
+# The Beneath Modpack
 mcmodpack
